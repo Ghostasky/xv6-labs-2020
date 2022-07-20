@@ -3,5 +3,6 @@
     "files.associations": {
         "*.vue": "vue",
         "proc.h": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
