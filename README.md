@@ -13,4 +13,4 @@ Store the code of MIT6.s081 lab
 | Lab1/find        |                 |
 | Lab1/xargs       |                 |
 | Lab2/trace       | Finish          |
-| Lab2/sysinfo     |                 |
+| Lab2/sysinfo     | Finish          |
